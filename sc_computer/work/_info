@@ -1,0 +1,367 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\FPGA_demos\sc_computer_backup
+valu
+Z1 !s100 KR8YPBeYTJnF2iaY`A^Xf0
+Z2 III3l<<4haW6R19L0cQcMf0
+Z3 VKc:bVz32gc5X2ZbjUde9O3
+Z4 dD:\FPGA_demos\sc_computer
+Z5 w1620808272
+Z6 8D:/FPGA_demos/sc_computer/sc_computer_student/source/alu.v
+Z7 FD:/FPGA_demos/sc_computer/sc_computer_student/source/alu.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/FPGA_demos/sc_computer/sc_computer_student/source/alu.v|
+Z10 o-work work -O0
+Z11 !s108 1624243256.421000
+Z12 !s107 D:/FPGA_demos/sc_computer/sc_computer_student/source/alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vclock_2T
+Z13 !s100 H7S[n`=U1eC?Lih^PK5`_1
+Z14 Icln>?7CA`nc2FkG<7PVgW3
+Z15 VToLdii032h@YT=_7W8mfk2
+R4
+Z16 w1621046018
+Z17 8D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_cpuclk.v
+Z18 FD:/FPGA_demos/sc_computer/sc_computer_student/source/sc_cpuclk.v
+L0 2
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_cpuclk.v|
+R10
+Z20 nclock_2@t
+Z21 !s108 1624243259.654000
+Z22 !s107 D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_cpuclk.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vclock_mem
+!i10b 1
+Z23 !s100 ELO1QQSOCnAcRnRijBi5L0
+Z24 Iic9GVR0]^S9V>ob2m^=JX0
+Z25 V3G8m=VXlCnjZ;[?Nc4z?02
+R4
+Z26 w1621045964
+Z27 8D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_memclk.v
+Z28 FD:/FPGA_demos/sc_computer/sc_computer_student/source/sc_memclk.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1624243260.987000
+!s107 D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_memclk.v|
+Z29 !s90 -reportprogress|300|-work|work|D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_memclk.v|
+!s101 -O0
+R10
+vdff32
+Z30 !s100 =T8haO@>6:2bEJ7HdTWHd1
+Z31 ITWJXlR96<o_LOHU1GEen80
+Z32 VUO7_EzIi9>SeN7M;XG9<c0
+R4
+Z33 w1305031718
+Z34 8D:/FPGA_demos/sc_computer/sc_computer_student/source/dff32.v
+Z35 FD:/FPGA_demos/sc_computer/sc_computer_student/source/dff32.v
+L0 1
+R8
+r1
+31
+Z36 !s90 -reportprogress|300|-work|work|D:/FPGA_demos/sc_computer/sc_computer_student/source/dff32.v|
+R10
+Z37 !s108 1624243256.792000
+Z38 !s107 D:/FPGA_demos/sc_computer/sc_computer_student/source/dff32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdffe32
+Z39 !s100 WUK2Wz[DB19[<ELfFzA?>2
+Z40 IaaC>7D=G5ohoQmGjzM0:c2
+Z41 V6]Tk:7m18<;Eoi?;I3VNB3
+R4
+Z42 w1252914812
+Z43 8D:/FPGA_demos/sc_computer/sc_computer_student/source/dffe32.v
+Z44 FD:/FPGA_demos/sc_computer/sc_computer_student/source/dffe32.v
+L0 1
+R8
+r1
+31
+Z45 !s90 -reportprogress|300|-work|work|D:/FPGA_demos/sc_computer/sc_computer_student/source/dffe32.v|
+R10
+Z46 !s108 1624243257.117000
+Z47 !s107 D:/FPGA_demos/sc_computer/sc_computer_student/source/dffe32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vlpm_ram_dq_dram
+Z48 I?mEm>6PlaSd585[b>KZ;Y3
+Z49 V;^>UgMFOjF@EZ@A<NMAW`0
+R4
+Z50 w1305005947
+Z51 8D:/FPGA_demos/sc_computer/sc_computer_student/source/lpm_ram_dq_dram.v
+Z52 FD:/FPGA_demos/sc_computer/sc_computer_student/source/lpm_ram_dq_dram.v
+L0 39
+R8
+r1
+31
+R10
+Z53 !s100 KjHig8[0`5]0NK^[G_S^P0
+Z54 !s108 1624197227.249000
+Z55 !s107 D:/FPGA_demos/sc_computer/sc_computer_student/source/lpm_ram_dq_dram.v|
+Z56 !s90 -reportprogress|300|-work|work|D:/FPGA_demos/sc_computer/sc_computer_student/source/lpm_ram_dq_dram.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vlpm_rom_irom
+Z57 I@:?<ORUYlOT]JJ?=9b77Q1
+Z58 V6I?:oUA0HYdli42?U:6:L0
+R4
+Z59 w1305004957
+Z60 8D:/FPGA_demos/sc_computer/sc_computer_student/source/lpm_rom_irom.v
+Z61 FD:/FPGA_demos/sc_computer/sc_computer_student/source/lpm_rom_irom.v
+L0 39
+R8
+r1
+31
+R10
+Z62 !s100 ULK`^_>gl_8:Uk]ZRzR8n1
+Z63 !s108 1624197227.504000
+Z64 !s107 D:/FPGA_demos/sc_computer/sc_computer_student/source/lpm_rom_irom.v|
+Z65 !s90 -reportprogress|300|-work|work|D:/FPGA_demos/sc_computer/sc_computer_student/source/lpm_rom_irom.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2x32
+Z66 !s100 @8A2>H?e;mBga]MHoOO[32
+Z67 I?;PXk3n`gG?EbJY:9]9o>2
+Z68 V_8o=]o8CzEDeX@^n?a@zP3
+R4
+Z69 w1252908544
+Z70 8D:/FPGA_demos/sc_computer/sc_computer_student/source/mux2x32.v
+Z71 FD:/FPGA_demos/sc_computer/sc_computer_student/source/mux2x32.v
+L0 1
+R8
+r1
+31
+Z72 !s90 -reportprogress|300|-work|work|D:/FPGA_demos/sc_computer/sc_computer_student/source/mux2x32.v|
+R10
+Z73 !s108 1624243258.041000
+Z74 !s107 D:/FPGA_demos/sc_computer/sc_computer_student/source/mux2x32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2x5
+Z75 !s100 bflBX69S;4hlZ8bLG>0GL1
+Z76 IKnRH58I<Ch5Fn5AHJSZ`20
+Z77 Vah3g>_]Y^Qz2GXD7HR^<<3
+R4
+Z78 w1253170143
+Z79 8D:/FPGA_demos/sc_computer/sc_computer_student/source/mux2x5.v
+Z80 FD:/FPGA_demos/sc_computer/sc_computer_student/source/mux2x5.v
+L0 1
+R8
+r1
+31
+Z81 !s90 -reportprogress|300|-work|work|D:/FPGA_demos/sc_computer/sc_computer_student/source/mux2x5.v|
+R10
+Z82 !s108 1624243257.532000
+Z83 !s107 D:/FPGA_demos/sc_computer/sc_computer_student/source/mux2x5.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4x32
+Z84 !s100 SEPDX_aiHlJTdUJ1lNo4D1
+Z85 IFAb_X?z67eU5F<Rmk`CZ`3
+Z86 VM:hYY`k:C]4^:^k7d8C]M0
+R4
+Z87 w1252998688
+Z88 8D:/FPGA_demos/sc_computer/sc_computer_student/source/mux4x32.v
+Z89 FD:/FPGA_demos/sc_computer/sc_computer_student/source/mux4x32.v
+L0 1
+R8
+r1
+31
+Z90 !s90 -reportprogress|300|-work|work|D:/FPGA_demos/sc_computer/sc_computer_student/source/mux4x32.v|
+R10
+Z91 !s108 1624243258.380000
+Z92 !s107 D:/FPGA_demos/sc_computer/sc_computer_student/source/mux4x32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vram_1port
+Z93 !s100 :bkLDMi^cmOikB3^A1ng`3
+Z94 IOGlVLjeXl?OD4m@4m]4L11
+Z95 VRN_YOUUDo>L<XKOb3[R@91
+R4
+Z96 w1621219860
+Z97 8D:\FPGA_demos\sc_computer\sc_computer_student\ram_1port.v
+Z98 FD:\FPGA_demos\sc_computer\sc_computer_student\ram_1port.v
+L0 39
+R8
+r1
+31
+Z99 !s90 -reportprogress|300|-work|work|D:\FPGA_demos\sc_computer\sc_computer_student\ram_1port.v|
+R10
+Z100 !s108 1624243255.647000
+Z101 !s107 D:\FPGA_demos\sc_computer\sc_computer_student\ram_1port.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregfile
+Z102 !s100 n7deVZzdTcFFIozaXgzZR0
+Z103 ILV<WITLbBj3`1gSFcTUGg3
+Z104 VHL?YD<z4Tlb1gm`0^XW@D2
+R4
+Z105 w1620911550
+Z106 8D:/FPGA_demos/sc_computer/sc_computer_student/source/regfile.v
+Z107 FD:/FPGA_demos/sc_computer/sc_computer_student/source/regfile.v
+L0 1
+R8
+r1
+31
+Z108 !s90 -reportprogress|300|-work|work|D:/FPGA_demos/sc_computer/sc_computer_student/source/regfile.v|
+R10
+Z109 !s108 1624243258.704000
+Z110 !s107 D:/FPGA_demos/sc_computer/sc_computer_student/source/regfile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vrom_1port
+Z111 !s100 >FG?Xb]L4J>O<nRIn7gHk3
+Z112 I5[>LmLaZoYIon:8T2kAWC2
+Z113 VLYVh`[mG`hbmo7e5P=[aa2
+R4
+Z114 w1621158326
+Z115 8D:\FPGA_demos\sc_computer\sc_computer_student\rom_1port.v
+Z116 FD:\FPGA_demos\sc_computer\sc_computer_student\rom_1port.v
+L0 39
+R8
+r1
+31
+Z117 !s90 -reportprogress|300|-work|work|D:\FPGA_demos\sc_computer\sc_computer_student\rom_1port.v|
+R10
+Z118 !s108 1624243255.815000
+Z119 !s107 D:\FPGA_demos\sc_computer\sc_computer_student\rom_1port.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_computer
+Z120 !s100 Nm5k3]35GYXe[<Bo>YhhR3
+Z121 IdTB0LCNVDP>mEe3F`80CV3
+Z122 V;imM31amj5maLzbXd`VEO0
+R4
+Z123 w1621064874
+Z124 8D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_computer.v
+Z125 FD:/FPGA_demos/sc_computer/sc_computer_student/source/sc_computer.v
+L0 7
+R8
+r1
+31
+Z126 !s90 -reportprogress|300|-work|work|D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_computer.v|
+R10
+Z127 !s108 1624243259.007000
+Z128 !s107 D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_computer.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_computer_sim
+Z129 IU[F@5;0]JJ6kKU3XBmZd00
+Z130 V^jiC<6F7]doek[nRMoOol1
+R4
+Z131 w1621171211
+Z132 8D:\FPGA_demos\sc_computer\sc_computer_student\sc_computer_sim.v
+Z133 FD:\FPGA_demos\sc_computer\sc_computer_student\sc_computer_sim.v
+L0 20
+R8
+r1
+31
+R10
+Z134 !s100 Gh6XA33dB;onLT]<dmR1P1
+Z135 !s108 1624243256.029000
+Z136 !s107 D:\FPGA_demos\sc_computer\sc_computer_student\sc_computer_sim.v|
+Z137 !s90 -reportprogress|300|-work|work|D:\FPGA_demos\sc_computer\sc_computer_student\sc_computer_sim.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_cpu
+Z138 !s100 ^AUzCR^fY;oOcCA65YmM^0
+Z139 I4jI`C2EU6@5O1OCC;AVeb0
+Z140 V:mi8;^<LZUMNBc_]kEVbj2
+R4
+Z141 w1620911374
+Z142 8D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_cpu.v
+Z143 FD:/FPGA_demos/sc_computer/sc_computer_student/source/sc_cpu.v
+L0 1
+R8
+r1
+31
+Z144 !s90 -reportprogress|300|-work|work|D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_cpu.v|
+R10
+Z145 !s108 1624243259.331000
+Z146 !s107 D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_cu
+Z147 !s100 o0<AXmEG88>PQIGJO:7fg0
+Z148 IaPR=kmOeSAD=N5oOm6nc51
+Z149 VAlN72Pg@l_c4ao;V0co7c3
+R4
+Z150 w1621174041
+Z151 8D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_cu.v
+Z152 FD:/FPGA_demos/sc_computer/sc_computer_student/source/sc_cu.v
+L0 1
+R8
+r1
+31
+Z153 !s90 -reportprogress|300|-work|work|D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_cu.v|
+R10
+Z154 !s108 1624243260.058000
+Z155 !s107 D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_cu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_datamem
+Z156 !s100 3hc^QRimR@e8WLHCQangg0
+Z157 IQ`<ef?cYg7nbAzDbi_O5=0
+Z158 VJ9h[ZdNI72Y`S5QQSMR7b0
+R4
+Z159 w1621178071
+Z160 8D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_datamem.v
+Z161 FD:/FPGA_demos/sc_computer/sc_computer_student/source/sc_datamem.v
+L0 1
+R8
+r1
+31
+Z162 !s90 -reportprogress|300|-work|work|D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_datamem.v|
+R10
+Z163 !s108 1624243260.405000
+Z164 !s107 D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_datamem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_instmem
+Z165 !s100 X9gbPXRhbQMgE1:FAS8^[3
+Z166 I:>OVjI@V@<mOa_gVfIP<l1
+Z167 VkU`UIUgSeP=c3TJLN64XO2
+R4
+Z168 w1620835660
+Z169 8D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_instmen.v
+Z170 FD:/FPGA_demos/sc_computer/sc_computer_student/source/sc_instmen.v
+L0 1
+R8
+r1
+31
+Z171 !s90 -reportprogress|300|-work|work|D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_instmen.v|
+R10
+!i10b 1
+!s85 0
+Z172 !s108 1624243260.684000
+Z173 !s107 D:/FPGA_demos/sc_computer/sc_computer_student/source/sc_instmen.v|
+!s101 -O0

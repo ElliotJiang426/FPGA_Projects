@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="my_stopwatch">
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_stopwatch|stopwatch_01:inst|lpm_divide:Div3" CBX_FILE_NAME="lpm_divide_4am.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_stopwatch|stopwatch_01:inst|lpm_divide:Mod2" CBX_FILE_NAME="lpm_divide_t3m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_stopwatch|stopwatch_01:inst|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_adm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_stopwatch|stopwatch_01:inst|lpm_divide:Div2" CBX_FILE_NAME="lpm_divide_ucm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_stopwatch|stopwatch_01:inst|lpm_divide:Div4" CBX_FILE_NAME="lpm_divide_qbm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_stopwatch|stopwatch_01:inst|lpm_divide:Mod1" CBX_FILE_NAME="lpm_divide_a5m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_stopwatch|stopwatch_01:inst|lpm_divide:Mod3" CBX_FILE_NAME="lpm_divide_q3m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_stopwatch|stopwatch_01:inst|lpm_divide:Div1" CBX_FILE_NAME="lpm_divide_7dm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_stopwatch|stopwatch_01:inst|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_q3m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_stopwatch|stopwatch_01:inst|lpm_divide:Mod4" CBX_FILE_NAME="lpm_divide_q3m.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
